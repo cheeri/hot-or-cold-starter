@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"h",
+				"h5	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1998,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"plu",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Murali/Projects/fizzbuzz/fizzbuzz.html",
+		"/Users/Murali/Projects/fizzbuzz/js/fizzbuzz.js",
+		"/Users/Murali/Projects/shopping-list/shopping-list.sublime-project",
+		"/Users/Murali/Projects/shopping-list/css/shoppingstyle.css",
+		"/Users/Murali/Projects/shopping-list/js/app.js",
+		"/Users/Murali/Projects/shopping-list/shopping.html",
+		"/Users/Murali/Projects/startup-landing-page-clone/css/style.css",
+		"/Users/Murali/Projects/startup-landing-page-clone/index.html",
+		"/Users/Murali/Projects/shopping-list/shoppingstyle.css",
+		"/Users/Murali/Projects/jquery-starter/css/normalize.css",
+		"/Users/Murali/Projects/Hello World/jquery-2.1.4.js",
+		"/Users/Murali/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/Murali/Projects/startup-landing-page-clone/startup-landing-page-clone.sublime-project",
+		"/Users/Murali/Projects/startup-landing-page-clone/images/karma-logo.svg"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"webkit-padding-start",
+			"ul",
+			"center",
+			"roboto",
+			"content",
+			"img.logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/app.js",
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.939699512492,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true
+}
